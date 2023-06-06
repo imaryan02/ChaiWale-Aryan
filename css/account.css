@@ -9,10 +9,10 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-image:url("img1/aaa.png");
-    background-repeat: no-repeat;
+    /* background-image:url("")o-repeat; */
     background-size:contain;
     background-color:#28282B;
+    background-image: url("/aaa.png");
     /* opacity:0.9; */
     
     
